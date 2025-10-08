@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # verifiable-advisory-poll-mvp
-=======
 # Verifiable Advisory Poll — One-District MVP (v1.0)
 
 **Authors:** Vince Mbanze · Thabo Pilusa · Ofentse Pholosi  
@@ -13,4 +11,3 @@ A lean, publicly auditable advisory-poll MVP using an existing voter roll with o
 **Suggested citation:** Mbanze, V., Pilusa, T., & Pholosi, O. (2025). *Verifiable Advisory Poll — One-District MVP (v1.0)*. Nexusnode. CC BY 4.0.
 
 **Keywords:** verifiable polling, PBB, OTP, trustees, USSD/SMS, Global South, South Africa, POPIA.
->>>>>>> 123c084 (Add MVP PDF v1.0, README, and license)
