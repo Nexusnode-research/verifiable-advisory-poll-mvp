@@ -9,7 +9,6 @@ A lean, publicly auditable advisory-poll MVP using an existing voter roll with o
 
 **Download:**  
 - **PDF (v1.0.2):** https://github.com/Nexusnode-research/verifiable-advisory-poll-mvp/releases/download/v1.0.2/Verifiable_Advisory_Poll_MVP_v1.0.2.pdf  
-  *(Optional evergreen)* **Latest:** https://github.com/Nexusnode-research/verifiable-advisory-poll-mvp/releases/latest/download/Verifiable_Advisory_Poll_MVP_v1.0.pdf
 
 
 **Suggested citation:**  
