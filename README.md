@@ -14,5 +14,3 @@ Mbanze, V., Pilusa, T., & Pholosi, O. (2025). *Verifiable Advisory Poll — One-
 
 **Keywords:** verifiable polling, PBB, OTP, trustees, USSD/SMS, Global South, South Africa, POPIA.
 
-**File hash (for reproducibility):**  
-SHA-256 (Verifiable_Advisory_Poll_MVP_v1.0.pdf): `8dbd9b2aa21f843d86061ea20bb11999bb3691c28e48d73b54cd6fc4b257266c`
